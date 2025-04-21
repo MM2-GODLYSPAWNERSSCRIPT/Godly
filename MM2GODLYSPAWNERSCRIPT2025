@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/MM2-GODLYSPAWNERSSCRIPT/Godly/refs/heads/main/MM2.lua'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MM2-GODLYSPAWNERSSCRIPT/Godly/refs/heads/main/MM2.lua"))()
